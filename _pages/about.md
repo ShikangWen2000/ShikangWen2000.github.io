@@ -19,9 +19,9 @@ I have two major academic projects during undergraduate studies.  My first work 
 News
 ======
 
-<table style="border-collapse: collapse; border: 0; background-color: transparent;">
+<table style="border-collapse: collapse; border: none; background-color: transparent;">
   <tr>
-    <td style="padding: 8px;">Nov, 2022</td>
-    <td style="padding: 8px; width: 66%;">One paper accepted to JOBE.</td>
+    <td style="padding: 8px; border: none">Nov, 2022</td>
+    <td style="padding: 8px; width: 66%; border: none">One paper accepted to JOBE.</td>
   </tr>
 </table>

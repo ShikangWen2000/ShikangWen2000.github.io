@@ -17,7 +17,11 @@ layout: compress
     {% include masthead.html %}
 
     {{ content }}
-
+    
+    {% if page.news -%}
+    <!-- News -->
+    {%- include news.html %}
+    {%- endif %}
 
     {% include scripts.html %}
 

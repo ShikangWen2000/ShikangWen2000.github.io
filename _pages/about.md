@@ -3,7 +3,6 @@ permalink: /
 title: "Biography"
 excerpt: "About me"
 author_profile: true
-news: true  # includes a list of news items
 redirect_from: 
   - /about/
   - /about.html
@@ -17,3 +16,21 @@ Academic experiences
 ======
 I have two major academic projects during undergraduate studies.  My first work used a genetic algorithm to select and optimize shading strategies. The paper has been accepted for publication in the [Journal of Building Engineering](https://www.sciencedirect.com/science/article/pii/S2352710222015388). After this project, I was fascinated by the research of dynamic daylight control. Traditional glare sensor uses multiple exposure images and requires a great amount of time to process the input to predict glare. I am trying to improve the prediction efficiency by using a single-exposure image to rebuild a luminance map by machine learning. I have finished a major part of this project and a related manuscript is being prepared.
 
+News
+======
+
+<style>
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 0.5em;
+}
+</style>
+
+| 列1 | 列2 | 列3 |
+| --- | --- | --- |
+| 行1单元格1 | 行1单元格2 | 行1单元格3 |
+| 行2单元格1 | 行2单元格2 | 行2单元格3 |

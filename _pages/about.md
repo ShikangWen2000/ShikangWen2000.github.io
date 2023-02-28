@@ -19,18 +19,15 @@ I have two major academic projects during undergraduate studies.  My first work 
 News
 ======
 
-<style>
-table {
-  border-collapse: collapse;
-}
-
-td, th {
-  border: 1px solid rgba(0, 0, 0, 0.2);
-  padding: 0.5em;
-}
-</style>
-
-| 列1 | 列2 | 列3 |
-| --- | --- | --- |
-| 行1单元格1 | 行1单元格2 | 行1单元格3 |
-| 行2单元格1 | 行2单元格2 | 行2单元格3 |
+<table style="border-collapse: collapse; background-color: transparent;">
+  <tr>
+    <td style="padding: 8px;">Cell 1</td>
+    <td style="padding: 8px;">Cell 2</td>
+    <td style="padding: 8px;">Cell 3</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;">Cell 4</td>
+    <td style="padding: 8px;">Cell 5</td>
+    <td style="padding: 8px;">Cell 6</td>
+  </tr>
+</table>

@@ -11,4 +11,15 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+
+    {% include scripts.html %}
+
+  </body>
 </html>

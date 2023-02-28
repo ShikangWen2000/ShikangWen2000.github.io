@@ -1,14 +1,14 @@
 ---
 permalink: /
-layout: about
 title: "Biography"
 excerpt: "About me"
 author_profile: true
+news: true  # includes a list of news items
 redirect_from: 
   - /about/
   - /about.html
 
-news: true  # includes a list of news items
+
 ---
 
 I am an undergraduated student at Department of architecture, [School of Design](https://designschool.sjtu.edu.cn/en-us), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I will graduate from SJTU in 06.2023 (Expected). My research interests are optimizing the building environment (such as daylit space) and applying machine learning in buildings.

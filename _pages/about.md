@@ -19,7 +19,7 @@ I have two major academic projects during undergraduate studies.  My first work 
 News
 ======
 
-<table style="border: none; background-color: transparent;">
+<table style="border-collapse: collapse; border: 0; background-color: transparent;">
   <tr>
     <td style="padding: 8px;">Cell 1</td>
     <td style="padding: 8px; width: 66%;">Cell 2</td>

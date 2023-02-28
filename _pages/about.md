@@ -19,13 +19,13 @@ I have two major academic projects during undergraduate studies.  My first work 
 News
 ======
 
-<table style="border-collapse: collapse; border: none; background-color: transparent;">
+<table style="border: none; background-color: transparent;">
   <tr>
-    <td style="padding: 8px; width: 66%;">Cell 1</td>
-    <td style="padding: 8px;">Cell 2</td>
+    <td style="padding: 8px;">Cell 1</td>
+    <td style="padding: 8px; width: 66%;">Cell 2</td>
   </tr>
   <tr>
-    <td style="padding: 8px; width: 66%;">Cell 4</td>
-    <td style="padding: 8px;">Cell 5</td>
+    <td style="padding: 8px;">Cell 4</td>
+    <td style="padding: 8px; width: 66%;">Cell 5</td>
   </tr>
 </table>

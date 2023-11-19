@@ -8,4 +8,4 @@ date: 2022-12-10
 location: "Shanghai, China"
 ---
 
-In this course, I instructed the student to use the tool of daylight simulation and answered the relative problems that students met in practice.
+In this course, I guided students in using daylight simulation tools and addressed the practical challenges they encountered.

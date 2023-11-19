@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-I am a recent graduate from the Department of Architecture at the [School of Design](https://designschool.sjtu.edu.cn/en-us), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), having completed my undergraduate studies in June 2023. My research interests are centered around the application of Deep Learning in architecture, focusing on automated generation and optimization in building design.
+I recently graduated from the Department of Architecture at the [School of Design](https://designschool.sjtu.edu.cn/en-us), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), completing my undergraduate studies in June 2023. My research interests are centered on applying Deep Learning in architecture, with a focus on automated generation and optimization in architectural design and the building environment.
 
 Academic experiences
 ======

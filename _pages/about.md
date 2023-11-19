@@ -32,6 +32,6 @@ News
   </tr>
   <tr>
     <td style="padding: 8px; border: none; font-weight:bold">Sep, 2023</td>
-    <td style="padding: 8px; width: 66%; border: none">One paper accepted to Building simulation 2023 (<strong>oral presentation<strong>).</td>
+    <td style="padding: 8px; width: 66%; border: none">One paper accepted to Building simulation 2023 (<strong>oral presentation</strong>).</td>
   </tr>
 </table>

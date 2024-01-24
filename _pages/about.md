@@ -27,15 +27,17 @@ News
 
 <table style="border-collapse: collapse; border: none; background-color: transparent; font-size: 16px">
   <tr>
-    <td style="padding: 8px; border: none; font-weight:bold">Nov, 2022</td>
-    <td style="padding: 8px; width: 66%; border: none">One paper accepted to JOBE (IF: 6.4)</td>
+    <td style="padding: 8px; border: none; font-weight:bold">Jan, 2024</td>
+    <td style="padding: 8px; width: 66%; border: none">One paper accepted to Automation in Construction (IF: 10.3)</td>
   </tr>
   <tr>
     <td style="padding: 8px; border: none; font-weight:bold">Sep, 2023</td>
     <td style="padding: 8px; width: 66%; border: none">One paper accepted to Building simulation 2023 (<strong>Oral presentation</strong>).</td>
   </tr>
   <tr>
-    <td style="padding: 8px; border: none; font-weight:bold">Jan, 2024</td>
-    <td style="padding: 8px; width: 66%; border: none">One paper accepted to Automation in Construction (IF: 10.3)</td>
+    <td style="padding: 8px; border: none; font-weight:bold">Nov, 2022</td>
+    <td style="padding: 8px; width: 66%; border: none">One paper accepted to JOBE (IF: 6.4)</td>
   </tr>
+  
+  
 </table>

@@ -18,10 +18,6 @@ During my undergraduate studies, I completed two significant academic projects. 
 
 Additionally, my undergraduate project focused on predicting building energy consumption at a city-scale level and examining how inter-building effects impact the performance of deep learning models in such predictions. I developed an innovative graph neural network to enhance the accuracy of predicting building energy consumption. Currently, I am preparing a manuscript on this study for submission to a top-tier journal.
 
-Current status
-======
-I am actively seeking a PhD position in fields related to deep learning in the built environment, generative design, or 3D building reconstruction. If there are any available opportunities, please feel free to contact me via email.
-
 News
 ======
 
@@ -38,6 +34,4 @@ News
     <td style="padding: 8px; border: none; font-weight:bold">Nov, 2022</td>
     <td style="padding: 8px; width: 66%; border: none">One paper accepted to JOBE (<strong>IF: 6.4</strong>)</td>
   </tr>
-  
-  
 </table>

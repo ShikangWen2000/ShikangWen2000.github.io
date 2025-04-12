@@ -12,9 +12,9 @@ I recently graduated from the Department of Architecture at the [School of Desig
 Academic experiences
 ====================
 
-During my undergraduate studies, I completed two significant academic projects. My first project involved utilizing a genetic algorithm to select and optimize shading strategies. This work has been accepted for publication in the [Journal of Building Engineering](https://www.sciencedirect.com/science/article/pii/S2352710222015388) (`<strong>`IF: 6.4`</strong>`). Following this project, my fascination with dynamic daylight control research grew. I am currently exploring the use of deep learning methods to streamline the process of glare detection. The manuscript related to this research has been accepted by [Automation in Construction](https://doi.org/10.1016/j.autcon.2024.105294) (`<strong>`IF: 10.3`</strong>`).
+During my undergraduate studies, I completed two significant academic projects. My first project involved utilizing a genetic algorithm to select and optimize shading strategies. This work has been accepted for publication in the [Journal of Building Engineering](https://www.sciencedirect.com/science/article/pii/S2352710222015388)(IF: 6.7). Following this project, my fascination with dynamic daylight control research grew. I am currently exploring the use of deep learning methods to streamline the process of glare detection. The manuscript related to this research has been accepted by [Automation in Construction](https://doi.org/10.1016/j.autcon.2024.105294) (IF: 9.6).
 
-Additionally, my undergraduate project focused on predicting building energy consumption at a city-scale level and examining how inter-building effects impact the performance of deep learning models in such predictions. I developed an innovative graph neural network to enhance the accuracy of predicting building energy consumption. Currently, I am preparing a manuscript on this study for submission to a top-tier journal.
+During my graduate studies, I focused on improving building energy efficiency. My first study demonstrated that existing buildings in Hong Kong can reduce energy consumption by half; the findings were published in [Energy and Buildings](https://doi.org/10.1016/j.enbuild.2025.115705) (IF: 6.6)
 
 News
 ====

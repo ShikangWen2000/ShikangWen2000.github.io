@@ -156,13 +156,15 @@ a {
   border-radius: 999px;
 }
 
+.experience-list,
 .fellowship-list {
   margin: 0.75rem 0 2rem;
 }
 
+.experience-item,
 .fellowship-item {
   display: grid;
-  grid-template-columns: 4rem minmax(0, 1fr);
+  grid-template-columns: 8.5rem minmax(0, 1fr);
   gap: 1.1rem;
   padding: 1.15rem 0;
   border-bottom: 1px solid $border-color;
@@ -185,6 +187,11 @@ a {
   }
 }
 
+.fellowship-item {
+  grid-template-columns: 4rem minmax(0, 1fr);
+}
+
+.experience-period,
 .fellowship-year {
   padding-top: 0.12rem;
   color: $info-color;
@@ -302,6 +309,11 @@ a {
   margin: 0 0 0.85rem;
   color: #607483;
   font-size: 0.77rem;
+}
+
+.project-period {
+  color: #667987;
+  font-weight: 600;
 }
 
 .academic-label {
@@ -519,6 +531,7 @@ a {
     gap: 0.25rem;
   }
 
+  .experience-item,
   .fellowship-item {
     grid-template-columns: 1fr;
     gap: 0.25rem;

@@ -1,14 +1,17 @@
 ---
 layout: archive
-title: "Project"
+title: "Research Projects"
 permalink: /project/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<p class="archive__lead">Selected work in computational design, visual comfort, building performance, and data-driven methods for the built environment.</p>
 
+<div class="project-grid">
 {% for post in site.project %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="project" %}
 {% endfor %}
+</div>
 

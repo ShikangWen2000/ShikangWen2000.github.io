@@ -1,43 +1,53 @@
 ---
 permalink: /
-title: "Biography"
-excerpt: "About me"
+title: "Research Profile"
+excerpt: "About Shikang Wen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I recently graduated from the Department of Architecture at the [School of Design](https://designschool.sjtu.edu.cn/en-us), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), completing my undergraduate studies in June 2023. My research focuses on the application of deep learning in the fields of architecture and urban planning, specifically emphasizing automated generation and optimization processes within both building and urban environments.
 
-Academic experiences
-====================
+<p class="academic-kicker">Building science · Computational design · Artificial intelligence</p>
 
-During my undergraduate studies, I completed two significant academic projects. My first project involved utilizing a genetic algorithm to select and optimize shading strategies. This work has been accepted for publication in the [Journal of Building Engineering](https://www.sciencedirect.com/science/article/pii/S2352710222015388)(IF: 6.7). Following this project, my fascination with dynamic daylight control research grew. I am currently exploring the use of deep learning methods to streamline the process of glare detection. The manuscript related to this research has been accepted by [Automation in Construction](https://doi.org/10.1016/j.autcon.2024.105294) (IF: 9.6).
+<p class="academic-lead">I study how computational methods can improve the performance, comfort, and design of buildings and urban environments.</p>
 
-During my graduate studies, I focused on improving building energy efficiency. My first study demonstrated that existing buildings in Hong Kong can reduce energy consumption by half; the findings were published in [Energy and Buildings](https://doi.org/10.1016/j.enbuild.2025.115705) (IF: 6.6). Following the previous study, I examined the energy performance and economic feasibility of advanced terminals and heat pumps across multiple climate zones in China. The results were published in [Energy and Buildings](https://doi.org/10.1016/j.enbuild.2025.115835) (IF:  6.6). 
+My research focuses on the application of deep learning in architecture and urban planning, with particular emphasis on automated generation, performance prediction, and optimization across building and urban scales.
 
-News
-====
+<div class="research-interests" aria-label="Research interests">
+  <span class="research-interest">Building energy efficiency</span>
+  <span class="research-interest">Computational design</span>
+  <span class="research-interest">Daylighting & visual comfort</span>
+  <span class="research-interest">AI for the built environment</span>
+</div>
 
-<table style="border-collapse: collapse; border: none; background-color: transparent; font-size: 16px">
-  <tr>
-    <td style="padding: 8px; border: none; font-weight:bold">May, 2025</td>
-    <td style="padding: 8px; width: 66%; border: none">One paper accepted to Energy & Buildings (<strong>IF: 6.6</strong>)</td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border: none; font-weight:bold">Apr, 2025</td>
-    <td style="padding: 8px; width: 66%; border: none">One paper accepted to Energy & Buildings (<strong>IF: 6.6</strong>)</td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border: none; font-weight:bold">Jan, 2024</td>
-    <td style="padding: 8px; width: 66%; border: none">One paper accepted to Automation in Construction (<strong>IF: 9.6</strong>)</td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border: none; font-weight:bold">Sep, 2023</td>
-    <td style="padding: 8px; width: 66%; border: none">One paper accepted to Building simulation 2023 (<strong>Oral presentation</strong>).</td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border: none; font-weight:bold">Nov, 2022</td>
-    <td style="padding: 8px; width: 66%; border: none">One paper accepted to JOBE (<strong>IF: 6.7</strong>)</td>
-  </tr>
-</table>
+## Academic experience
+
+I completed my undergraduate studies in the Department of Architecture at the [School of Design](https://designschool.sjtu.edu.cn/en-us), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), in June 2023. During this period, I used a genetic algorithm to evaluate and optimize shading strategies. The resulting study was published in the [Journal of Building Engineering](https://www.sciencedirect.com/science/article/pii/S2352710222015388).
+
+This work led to further research on dynamic daylight control and deep-learning methods for glare detection, published in [Automation in Construction](https://doi.org/10.1016/j.autcon.2024.105294). During my graduate studies, I shifted toward building energy efficiency. Two subsequent studies examined [energy-saving potential in existing Hong Kong buildings](https://doi.org/10.1016/j.enbuild.2025.115705) and the [performance and economic feasibility of advanced terminals and heat pumps](https://doi.org/10.1016/j.enbuild.2025.115835) across multiple climate zones in China.
+
+## Recent news
+
+<div class="news-list">
+  <div class="news-item">
+    <div class="news-date">May 2025</div>
+    <div class="news-text">A paper was accepted by <em>Energy and Buildings</em>.</div>
+  </div>
+  <div class="news-item">
+    <div class="news-date">April 2025</div>
+    <div class="news-text">A paper was accepted by <em>Energy and Buildings</em>.</div>
+  </div>
+  <div class="news-item">
+    <div class="news-date">January 2024</div>
+    <div class="news-text">A paper was accepted by <em>Automation in Construction</em>.</div>
+  </div>
+  <div class="news-item">
+    <div class="news-date">September 2023</div>
+    <div class="news-text">Presented research orally at Building Simulation 2023.</div>
+  </div>
+  <div class="news-item">
+    <div class="news-date">November 2022</div>
+    <div class="news-text">A paper was accepted by the <em>Journal of Building Engineering</em>.</div>
+  </div>
+</div>

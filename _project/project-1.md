@@ -1,7 +1,10 @@
 ---
 title: "Optimization of Daylit Space"
-excerpt: "We apply a multi-objective genetic algorithm to optimize the daylight environment, develop a new formula to quantity the occupants' perception, and design a framework to compare the different shading strategies.<br/><img src='/images/Project/Project1/cover_photo.jpg'>"
+excerpt: "A multi-objective genetic algorithm for balancing glare control, daylight availability, and occupants' visual satisfaction across alternative shading strategies."
 collection: project
+status: "Published research"
+header:
+  teaser: "Project/Project1/cover_photo.jpg"
 ---
 
 Background

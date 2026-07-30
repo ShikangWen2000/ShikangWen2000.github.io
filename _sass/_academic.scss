@@ -1,0 +1,484 @@
+/* ==========================================================================
+   Academic site refinements
+   ========================================================================== */
+
+body {
+  background: $background-color;
+  color: $text-color;
+  font-size: 1rem;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  color: #fff;
+  background: $primary-color;
+}
+
+a {
+  color: $link-color;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+}
+
+.masthead {
+  position: sticky;
+  top: 0;
+  background: rgba(255, 255, 255, 0.96);
+  border-bottom: 1px solid rgba(23, 59, 87, 0.12);
+  box-shadow: 0 1px 10px rgba(23, 59, 87, 0.05);
+  backdrop-filter: blur(12px);
+}
+
+.masthead__inner-wrap {
+  max-width: 1180px;
+  padding: 0.7rem 1.25rem;
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    margin: 0 0.8rem;
+    color: $masthead-link-color;
+    font-size: 0.88rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+
+  .visible-links a:before {
+    height: 2px;
+    background: $info-color;
+  }
+}
+
+.masthead__menu-item--lg a {
+  font-family: $header-font-family;
+  font-size: 1.12rem;
+  letter-spacing: 0;
+}
+
+#main {
+  max-width: 1180px;
+  margin-top: 2.75rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.page,
+.archive {
+  min-width: 0;
+}
+
+.page__title {
+  margin-bottom: 1.25rem;
+  color: $primary-color;
+  font-family: $header-font-family;
+  font-size: 2.15rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+
+  &:after {
+    display: block;
+    width: 3rem;
+    height: 3px;
+    margin-top: 0.7rem;
+    background: $info-color;
+    content: "";
+  }
+}
+
+.page__content {
+  max-width: 850px;
+
+  h2 {
+    margin-top: 2.5rem;
+    padding-bottom: 0.45rem;
+    color: $primary-color;
+    font-family: $header-font-family;
+    font-size: 1.5rem;
+    border-bottom-color: $border-color;
+  }
+
+  p,
+  li {
+    line-height: 1.78;
+  }
+
+  a {
+    color: $link-color;
+    text-decoration-color: rgba(31, 98, 117, 0.4);
+
+    &:hover {
+      color: $primary-color;
+      text-decoration-color: $primary-color;
+    }
+  }
+}
+
+.academic-kicker {
+  margin: 0 0 0.65rem;
+  color: $info-color;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.academic-lead,
+.archive__lead {
+  max-width: 760px;
+  margin-bottom: 2rem;
+  color: #526575;
+  font-family: $header-font-family;
+  font-size: 1.12rem;
+  line-height: 1.65;
+}
+
+.research-interests {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 1.5rem 0 2.2rem;
+}
+
+.research-interest {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.45rem 0.75rem;
+  color: $primary-color;
+  font-size: 0.78rem;
+  font-weight: 650;
+  line-height: 1.25;
+  background: #eaf1f5;
+  border: 1px solid #d3e0e7;
+  border-radius: 999px;
+}
+
+.news-list {
+  margin-top: 0.5rem;
+  border-top: 1px solid $border-color;
+}
+
+.news-item {
+  display: grid;
+  grid-template-columns: 7rem minmax(0, 1fr);
+  gap: 1.25rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid $border-color;
+}
+
+.news-date {
+  color: $info-color;
+  font-size: 0.78rem;
+  font-weight: 750;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.news-text {
+  color: #354957;
+}
+
+.sidebar {
+  color: #425563;
+
+  .author__name {
+    color: $primary-color;
+    font-family: $header-font-family;
+    font-size: 1.08rem;
+  }
+
+  p,
+  li {
+    font-size: 0.78rem;
+  }
+}
+
+.author__avatar img {
+  padding: 0;
+  border: 0;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(23, 59, 87, 0.14);
+}
+
+.author__bio {
+  color: #526575;
+  line-height: 1.6;
+}
+
+.author__urls {
+  a {
+    margin-bottom: 0.15rem;
+    padding: 0.2rem 0;
+    color: #354957;
+
+    &:hover {
+      color: $link-color;
+      text-decoration: none;
+    }
+  }
+}
+
+.archive__item-title {
+  color: $primary-color;
+  font-family: $header-font-family;
+  line-height: 1.3;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+.publication__item {
+  margin-bottom: 1.25rem;
+
+  .archive__item {
+    padding: 1.4rem 1.5rem;
+    background: #fff;
+    border: 1px solid $border-color;
+    border-left: 4px solid $info-color;
+    border-radius: 8px;
+    box-shadow: 0 3px 14px rgba(23, 59, 87, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(23, 59, 87, 0.1);
+    }
+  }
+
+  .archive__item-title {
+    margin: 0 0 0.65rem;
+    font-size: 1.22rem;
+  }
+}
+
+.publication__meta,
+.project__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.8rem;
+  align-items: center;
+  margin: 0 0 0.85rem;
+  color: #607483;
+  font-size: 0.77rem;
+}
+
+.academic-label {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  color: #fff;
+  font-weight: 700;
+  line-height: 1.2;
+  background: $primary-color;
+  border-radius: 3px;
+}
+
+.publication__citation {
+  margin-top: 0.9rem;
+  padding-top: 0.85rem;
+  color: #607483;
+  font-size: 0.76rem;
+  line-height: 1.55;
+  border-top: 1px solid #edf1f4;
+}
+
+.academic-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1rem;
+}
+
+.academic-action {
+  display: inline-flex;
+  padding: 0.38rem 0.7rem;
+  color: $primary-color;
+  font-size: 0.74rem;
+  font-weight: 700;
+  line-height: 1.2;
+  text-decoration: none !important;
+  border: 1px solid #b9ccd6;
+  border-radius: 4px;
+
+  &:hover {
+    color: #fff;
+    background: $primary-color;
+    border-color: $primary-color;
+  }
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.35rem;
+}
+
+.project__item {
+  min-width: 0;
+
+  .archive__item {
+    height: 100%;
+    overflow: hidden;
+    background: #fff;
+    border: 1px solid $border-color;
+    border-radius: 10px;
+    box-shadow: 0 3px 14px rgba(23, 59, 87, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 28px rgba(23, 59, 87, 0.11);
+    }
+  }
+
+  .archive__item-teaser {
+    height: 175px;
+    border-radius: 0;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  .archive__item-placeholder {
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    height: 175px;
+    padding: 1.2rem;
+    overflow: hidden;
+    color: #fff;
+    background:
+      linear-gradient(135deg, rgba(47, 111, 121, 0.86), rgba(23, 59, 87, 0.96)),
+      #173b57;
+
+    &:before,
+    &:after {
+      position: absolute;
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      border-radius: 50%;
+      content: "";
+    }
+
+    &:before {
+      top: -45px;
+      right: -20px;
+      width: 170px;
+      height: 170px;
+    }
+
+    &:after {
+      top: 18px;
+      right: 42px;
+      width: 95px;
+      height: 95px;
+    }
+
+    span {
+      position: relative;
+      z-index: 1;
+      font-family: $header-font-family;
+      font-size: 1.05rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+  }
+
+  .archive__item-body {
+    padding: 1.2rem 1.25rem 1.35rem;
+  }
+
+  .archive__item-title {
+    margin: 0 0 0.65rem;
+    font-size: 1.18rem;
+  }
+
+  .archive__item-excerpt {
+    color: #526575;
+    font-size: 0.84rem;
+    line-height: 1.65;
+  }
+}
+
+.page__footer {
+  color: #b8c5ce;
+  background: #173247;
+  border-top: 0;
+
+  a,
+  .fas,
+  .fab,
+  .far,
+  .fal {
+    color: #d7e1e7;
+  }
+}
+
+.page__footer-copyright {
+  color: #9fb0bc;
+  font-size: 0.7rem;
+}
+
+@include breakpoint($large) {
+  #main {
+    display: flex;
+    align-items: flex-start;
+    gap: 3rem;
+  }
+
+  .sidebar {
+    position: sticky;
+    top: 5.5rem;
+    flex: 0 0 210px;
+    float: none;
+    width: 210px;
+    margin: 0;
+  }
+
+  .author__avatar img {
+    width: 190px;
+    height: 235px;
+    max-width: 190px;
+    object-fit: cover;
+    object-position: center 28%;
+  }
+
+  .page,
+  .archive {
+    flex: 1 1 auto;
+    float: none;
+    width: auto;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@include breakpoint(max-width $medium) {
+  #main {
+    margin-top: 1.75rem;
+  }
+
+  .page__title {
+    font-size: 1.8rem;
+  }
+
+  .academic-lead,
+  .archive__lead {
+    font-size: 1rem;
+  }
+
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .news-item {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}

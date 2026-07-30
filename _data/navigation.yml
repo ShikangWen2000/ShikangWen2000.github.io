@@ -1,7 +1,15 @@
-# main links links
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "Project"
+
+  - title: "Projects"
     url: /project/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "CV"
+    url: /CV/Shikang_Wen.pdf

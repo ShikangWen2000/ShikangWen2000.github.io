@@ -69,6 +69,9 @@ include:
   - _pages
   - files
 exclude:
+  # Publisher PDFs, kept locally as source material only. Git ignores them,
+  # but Jekyll would still copy them out of the working tree into _site.
+  - files/Publications
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

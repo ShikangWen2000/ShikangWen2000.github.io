@@ -49,6 +49,13 @@ layout: default
               {% if page.pdf %}<a class="academic-action" href="{{ base_path }}{{ page.pdf }}">PDF</a>{% endif %}
             </div>
           {% endif %}
+        {% elsif page.collection == 'project' %}
+          {% if page.status or page.period %}
+            <p class="project__meta">
+              {% if page.status %}<span class="academic-label">{{ page.status }}</span>{% endif %}
+              {% if page.period %}<span class="project-period">{{ page.period }}</span>{% endif %}
+            </p>
+          {% endif %}
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}

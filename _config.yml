@@ -156,17 +156,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _portfolio
+      share: false
+      comments: false
+  # _project
   - scope:
       path: ""
       type: project
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comments: false
 # Sass/SCSS
 sass:
   sass_dir: _sass

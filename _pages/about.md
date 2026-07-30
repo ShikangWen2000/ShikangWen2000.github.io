@@ -12,7 +12,7 @@ redirect_from:
 
 <p class="academic-lead">I develop simulation- and data-driven methods for designing lower-carbon, energy-efficient, and comfortable buildings.</p>
 
-I am a PhD candidate at The Hong Kong Polytechnic University. My research sits at the intersection of building science, computational design, and artificial intelligence, with published work spanning building retrofits, advanced HVAC terminal systems, radiant cooling, daylight optimization, and data-driven visual-comfort assessment.
+I am a PhD candidate at The Hong Kong Polytechnic University, supervised by [Prof. Qingyan Chen](https://www.polyu.edu.hk/beee/people/academic-staff/professor-chen-qingyan/). My research sits at the intersection of building science, computational design, and artificial intelligence, with published work spanning building retrofits, advanced HVAC terminal systems, radiant cooling, daylight optimization, and data-driven visual-comfort assessment.
 
 <div class="research-interests" aria-label="Research interests">
   <span class="research-interest">Carbon-neutral buildings</span>

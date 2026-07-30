@@ -12,7 +12,7 @@ Personal academic website built with Jekyll and hosted by GitHub Pages.
 ## Project structure
 
 - `_pages/`: top-level pages.
-- `_project/`, `_publications/`, `_talks/`, `_teaching/`: site content.
+- `_project/` and `_publications/`: research projects and publication records.
 - `_data/navigation.yml`: main navigation.
 - `_includes/` and `_layouts/`: reusable theme templates.
 - `_sass/_academic.scss`: academic visual system and responsive components.

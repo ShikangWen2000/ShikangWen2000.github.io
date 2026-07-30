@@ -5,11 +5,5 @@ main:
   - title: "Projects"
     url: /project/
 
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Talks"
-    url: /talks/
-
   - title: "CV"
     url: /CV/Shikang_Wen.pdf

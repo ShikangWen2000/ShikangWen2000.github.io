@@ -56,8 +56,10 @@ author:
   avatar           : "profile.png"
   bio              : "Research in building energy, computational design, and intelligent built environments."
   location         : "Hong Kong"
+  employer         : "The Hong Kong Polytechnic University"
   email            : "shikang0724@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Shikang-Wen-2"
+  googlescholar    : "https://scholar.google.com/citations?user=wfnoEisAAAAJ&hl=en"
   github           : "ShikangWen2000"
 
 
@@ -119,16 +121,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   project:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -153,15 +149,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -180,15 +167,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
 # Sass/SCSS
 sass:
   sass_dir: _sass

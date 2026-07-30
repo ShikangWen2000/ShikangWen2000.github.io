@@ -27,9 +27,40 @@ I completed my undergraduate studies in the Department of Architecture at the [S
 
 This work led to further research on dynamic daylight control and deep-learning methods for glare detection, published in [Automation in Construction](https://doi.org/10.1016/j.autcon.2024.105294). During my graduate studies, I shifted toward building energy efficiency. Two subsequent studies examined [energy-saving potential in existing Hong Kong buildings](https://doi.org/10.1016/j.enbuild.2025.115705) and the [performance and economic feasibility of advanced terminals and heat pumps](https://doi.org/10.1016/j.enbuild.2025.115835) across multiple climate zones in China.
 
+## Fellowships & academic visits
+
+<div class="fellowship-list">
+  <div class="fellowship-item">
+    <div class="fellowship-year">2026</div>
+    <div>
+      <h3>International Collaborative Research Fellowship</h3>
+      <p>Supported by The Hong Kong Polytechnic University for a one-year research visit to the <a href="https://cbe.berkeley.edu/">Center for the Built Environment (CBE)</a> at the University of California, Berkeley.</p>
+    </div>
+  </div>
+  <div class="fellowship-item">
+    <div class="fellowship-year">2026</div>
+    <div>
+      <h3>IAQVEC 2026 Student Fellowship</h3>
+      <p>Awarded in support of participation in the 12th International Conference on Indoor Air Quality, Ventilation & Energy Conservation in Buildings.</p>
+    </div>
+  </div>
+</div>
+
 ## Recent news
 
 <div class="news-list">
+  <div class="news-item">
+    <div class="news-date">2026</div>
+    <div class="news-text">Received the PolyU International Collaborative Research Fellowship for a one-year research visit to CBE at UC Berkeley.</div>
+  </div>
+  <div class="news-item">
+    <div class="news-date">2026</div>
+    <div class="news-text">Received the IAQVEC 2026 Student Fellowship and had a conference paper accepted for publication in <em>E3S Web of Conferences</em>.</div>
+  </div>
+  <div class="news-item">
+    <div class="news-date">2026</div>
+    <div class="news-text">A new paper was accepted for publication in <em>Building and Environment</em>.</div>
+  </div>
   <div class="news-item">
     <div class="news-date">May 2025</div>
     <div class="news-text">A paper was accepted by <em>Energy and Buildings</em>.</div>

@@ -55,7 +55,7 @@ This work led to further research on dynamic daylight control and deep-learning 
   </div>
   <div class="news-item">
     <div class="news-date">2026</div>
-    <div class="news-text">Received the IAQVEC 2026 Student Fellowship and had a conference paper accepted for publication in <em>E3S Web of Conferences</em>.</div>
+    <div class="news-text">Received the IAQVEC 2026 Student Fellowship and had a conference paper accepted by <em>IAQVEC 2026</em>.</div>
   </div>
   <div class="news-item">
     <div class="news-date">2026</div>

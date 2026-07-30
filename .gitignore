@@ -5,3 +5,7 @@ _site/
 node_modules/
 vendor/
 
+# Publisher PDFs kept locally as source material for the project write-ups.
+# `include: files` in _config.yml would republish anything committed here.
+files/Publications/
+

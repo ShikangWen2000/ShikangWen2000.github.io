@@ -2,7 +2,7 @@
 title: "Energy performance and life-cycle analyses of advanced terminal devices and heat pumps for a medium-sized office building in different climate zones in China"
 permalink: /publication/2025-terminal-devices-heat-pumps
 excerpt: "A multi-climate evaluation of advanced HVAC terminal devices and heat-pump systems using energy and life-cycle analysis."
-date: 2025-02-01
+date: 2025-05-06
 venue: "Energy and Buildings"
 type: "Journal article"
 paperurl: "https://doi.org/10.1016/j.enbuild.2025.115835"

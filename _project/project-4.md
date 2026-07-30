@@ -3,7 +3,8 @@ title: "Advanced radiant ceiling cooling system"
 excerpt: "Energy, exergy, and comfort analysis of radiant ceiling cooling integrated with an air-to-air sensible heat exchanger in a hot and humid climate."
 collection: project
 status: "Published research"
-period: "May 2024 - Jan 2025"
+period: "Dec 2025"
+date: 2025-12-12
 header:
   teaser: "projects/radiant-ceiling/cover.png"
 ---

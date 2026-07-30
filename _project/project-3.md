@@ -3,7 +3,8 @@ title: "Building retrofits in a high-density campus"
 excerpt: "A techno-economic pathway for halving operational carbon emissions in existing Hong Kong campus office buildings by 2035."
 collection: project
 status: "Published research"
-period: "Sep 2023 - May 2024"
+period: "Apr 2025"
+date: 2025-04-05
 header:
   teaser: "projects/campus-retrofit/cover.png"
 ---

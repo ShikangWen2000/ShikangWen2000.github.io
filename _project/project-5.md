@@ -3,7 +3,8 @@ title: "Advanced terminal devices and heat pumps across Chinese climates"
 excerpt: "A multi-climate energy and life-cycle assessment of radiant ceiling panels, gravity cabinet units, fan coils, and heat-pump configurations."
 collection: project
 status: "Published research"
-period: "2025"
+period: "May 2025"
+date: 2025-05-06
 header:
   teaser: "projects/terminal-devices/cover.png"
 ---

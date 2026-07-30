@@ -3,7 +3,8 @@ title: "Terminal devices, thermal comfort, and ventilation uniformity"
 excerpt: "An IAQVEC 2026 field investigation comparing fan coils, gravity cabinet units, and radiant surface systems under cooling and heating conditions."
 collection: project
 status: "Published research"
-period: "2026"
+period: "May 2026"
+date: 2026-05-19
 header:
   teaser: "projects/field-investigation/cover.png"
 ---

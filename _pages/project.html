@@ -10,7 +10,8 @@ author_profile: true
 <p class="archive__lead">A research trajectory from daylight and visual comfort to carbon-neutral retrofits, low-carbon HVAC systems, and field-based indoor-environment research.</p>
 
 <div class="project-grid">
-{% for post in site.project %}
+{% assign projects = site.project | sort: "date" %}
+{% for post in projects %}
   {% include archive-single.html type="project" %}
 {% endfor %}
 </div>

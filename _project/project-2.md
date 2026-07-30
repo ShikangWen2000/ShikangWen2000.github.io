@@ -3,7 +3,8 @@ title: "Real-time glare detection and luminance reconstruction"
 excerpt: "A deep-learning workflow for reconstructing fisheye luminance maps from a single low-dynamic-range image."
 collection: project
 status: "Published research"
-period: "Jul 2022 - Mar 2023"
+period: "Jan 2024"
+date: 2024-01-31
 header:
   teaser: "projects/luminance-reconstruction/cover.jpg"
 ---

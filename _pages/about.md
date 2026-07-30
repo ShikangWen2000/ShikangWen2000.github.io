@@ -51,14 +51,14 @@ I am a PhD candidate at The Hong Kong Polytechnic University. My research sits a
 
 <div class="fellowship-list">
   <div class="fellowship-item">
-    <div class="fellowship-year">2026</div>
+    <div class="fellowship-year">Jul 2026</div>
     <div>
       <h3>International Collaborative Research Fellowship</h3>
       <p>Supported by The Hong Kong Polytechnic University for a one-year research visit to the <a href="https://cbe.berkeley.edu/">Center for the Built Environment (CBE)</a> at the University of California, Berkeley.</p>
     </div>
   </div>
   <div class="fellowship-item">
-    <div class="fellowship-year">2026</div>
+    <div class="fellowship-year">May 2026</div>
     <div>
       <h3>IAQVEC 2026 Student Fellowship</h3>
       <p>Awarded in support of participation in the 12th International Conference on Indoor Air Quality, Ventilation & Energy Conservation in Buildings.</p>
@@ -70,27 +70,35 @@ I am a PhD candidate at The Hong Kong Polytechnic University. My research sits a
 
 <div class="news-list">
   <div class="news-item">
-    <div class="news-date">2026</div>
+    <div class="news-date">Jul 2026</div>
     <div class="news-text">Received the PolyU International Collaborative Research Fellowship for a one-year research visit to CBE at UC Berkeley.</div>
   </div>
   <div class="news-item">
-    <div class="news-date">2026</div>
-    <div class="news-text">Received the IAQVEC 2026 Student Fellowship; a conference paper was accepted by <em>IAQVEC 2026</em>.</div>
+    <div class="news-date">May 2026</div>
+    <div class="news-text">Received the IAQVEC 2026 Student Fellowship and presented a conference paper at <em>IAQVEC 2026</em>.</div>
   </div>
   <div class="news-item">
-    <div class="news-date">2026</div>
+    <div class="news-date">Dec 2025</div>
     <div class="news-text">Published a journal article in <em>Building and Environment</em>.</div>
   </div>
   <div class="news-item">
-    <div class="news-date">2025</div>
-    <div class="news-text">Published two journal articles in <em>Energy and Buildings</em>.</div>
+    <div class="news-date">May 2025</div>
+    <div class="news-text">Published a journal article in <em>Energy and Buildings</em> on advanced terminal devices and heat pumps.</div>
   </div>
   <div class="news-item">
-    <div class="news-date">2024</div>
+    <div class="news-date">Apr 2025</div>
+    <div class="news-text">Published a journal article in <em>Energy and Buildings</em> on campus retrofit pathways.</div>
+  </div>
+  <div class="news-item">
+    <div class="news-date">Jan 2024</div>
     <div class="news-text">Published a journal article in <em>Automation in Construction</em>.</div>
   </div>
   <div class="news-item">
-    <div class="news-date">2023</div>
-    <div class="news-text">Presented research at Building Simulation 2023 and published in the <em>Journal of Building Engineering</em>.</div>
+    <div class="news-date">Sep 2023</div>
+    <div class="news-text">Presented research at Building Simulation 2023.</div>
+  </div>
+  <div class="news-item">
+    <div class="news-date">Nov 2022</div>
+    <div class="news-text">Published a journal article in the <em>Journal of Building Engineering</em>.</div>
   </div>
 </div>

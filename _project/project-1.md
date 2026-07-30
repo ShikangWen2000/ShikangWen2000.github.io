@@ -3,7 +3,8 @@ title: "Daylight and shading optimization"
 excerpt: "A multi-objective framework for comparing shading strategies while balancing glare control and occupants' daylight satisfaction."
 collection: project
 status: "Published research"
-period: "Mar 2021 - Jun 2022"
+period: "Nov 2022"
+date: 2022-11-17
 header:
   teaser: "projects/daylight-shading/cover.jpg"
 ---

@@ -222,7 +222,7 @@ a {
 }
 
 .fellowship-item {
-  grid-template-columns: 4rem minmax(0, 1fr);
+  grid-template-columns: 5.5rem minmax(0, 1fr);
 }
 
 .experience-period,
@@ -252,7 +252,6 @@ a {
   font-size: 0.78rem;
   font-weight: 750;
   letter-spacing: 0.04em;
-  text-transform: uppercase;
 }
 
 .news-text {
@@ -287,7 +286,27 @@ a {
 }
 
 .author__urls {
+  /* The theme sets `white-space: nowrap`, which pushes long affiliation names
+     out of the fixed-width sidebar and over the article column. */
+  li {
+    display: flex;
+    gap: 0.4rem;
+    align-items: baseline;
+    white-space: normal;
+    overflow-wrap: anywhere;
+
+    > .fa,
+    > .fas,
+    > .fab,
+    > .far {
+      flex: 0 0 auto;
+    }
+  }
+
   a {
+    display: flex;
+    gap: 0.4rem;
+    align-items: baseline;
     margin-bottom: 0.15rem;
     padding: 0.2rem 0;
     color: #354957;

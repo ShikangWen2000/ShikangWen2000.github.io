@@ -25,7 +25,7 @@ I am a PhD candidate at The Hong Kong Polytechnic University. My research sits a
 
 <div class="experience-list">
   <div class="experience-item">
-    <div class="experience-period">2026–2027</div>
+    <div class="experience-period">2026.05–Present</div>
     <div>
       <h3>Visiting Researcher · University of California, Berkeley</h3>
       <p>A one-year research visit to the <a href="https://cbe.berkeley.edu/">Center for the Built Environment (CBE)</a>, supported by the PolyU International Collaborative Research Fellowship, extending my work on low-carbon HVAC systems and occupant comfort.</p>

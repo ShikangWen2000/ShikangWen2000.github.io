@@ -286,27 +286,7 @@ a {
 }
 
 .author__urls {
-  /* The theme sets `white-space: nowrap`, which pushes long affiliation names
-     out of the fixed-width sidebar and over the article column. */
-  li {
-    display: flex;
-    gap: 0.4rem;
-    align-items: baseline;
-    white-space: normal;
-    overflow-wrap: anywhere;
-
-    > .fa,
-    > .fas,
-    > .fab,
-    > .far {
-      flex: 0 0 auto;
-    }
-  }
-
   a {
-    display: flex;
-    gap: 0.4rem;
-    align-items: baseline;
     margin-bottom: 0.15rem;
     padding: 0.2rem 0;
     color: #354957;
@@ -631,6 +611,31 @@ button:focus-visible {
     max-width: 190px;
     object-fit: cover;
     object-position: center 28%;
+  }
+
+  /* Only once the sidebar is a fixed 210px column. The theme's
+     `white-space: nowrap` overruns it, but below this breakpoint that same
+     rule is what sizes the shrink-to-fit dropdown, so leave it alone there. */
+  .author__urls li {
+    display: flex;
+    gap: 0.4rem;
+    align-items: baseline;
+    white-space: normal;
+    overflow-wrap: break-word;
+
+    > .fa,
+    > .fas,
+    > .fab,
+    > .far {
+      flex: 0 0 auto;
+    }
+
+    a {
+      display: flex;
+      gap: 0.4rem;
+      align-items: baseline;
+      min-width: 0;
+    }
   }
 
   .page,

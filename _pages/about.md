@@ -47,9 +47,16 @@ I am a PhD candidate at The Hong Kong Polytechnic University, supervised by [Pro
   </div>
 </div>
 
-## Fellowships & academic visits
+## Honors, fellowships & academic visits
 
 <div class="fellowship-list">
+  <div class="fellowship-item">
+    <div class="fellowship-year">Aug 2026</div>
+    <div>
+      <h3>SINOPEC “Cleaner Energy Better Life” Research Student Award (Merit)</h3>
+      <p>Received the Merit distinction in the SINOPEC “Cleaner Energy Better Life” Research Student Award.</p>
+    </div>
+  </div>
   <div class="fellowship-item">
     <div class="fellowship-year">Jul 2026</div>
     <div>
@@ -69,6 +76,10 @@ I am a PhD candidate at The Hong Kong Polytechnic University, supervised by [Pro
 ## Recent news
 
 <div class="news-list">
+  <div class="news-item">
+    <div class="news-date">Aug 2026</div>
+    <div class="news-text">Received the SINOPEC “Cleaner Energy Better Life” Research Student Award (Merit).</div>
+  </div>
   <div class="news-item">
     <div class="news-date">Jul 2026</div>
     <div class="news-text">Received the PolyU International Collaborative Research Fellowship for a one-year research visit to CBE at UC Berkeley.</div>

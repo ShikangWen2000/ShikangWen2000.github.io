@@ -77,6 +77,14 @@ I am a PhD candidate at The Hong Kong Polytechnic University, supervised by [Pro
 
 <div class="news-list">
   <div class="news-item">
+    <div class="news-date">Sep 2026</div>
+    <div class="news-text">Had a journal article accepted by <em>Advanced Engineering Informatics</em>.</div>
+  </div>
+  <div class="news-item">
+    <div class="news-date">Sep 2026</div>
+    <div class="news-text">Invited to give a talk at Arizona State University (ASU) on AI in building energy modeling.</div>
+  </div>
+  <div class="news-item">
     <div class="news-date">Aug 2026</div>
     <div class="news-text">Received the SINOPEC “Cleaner Energy Better Life” Research Student Award (Merit).</div>
   </div>

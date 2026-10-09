@@ -1,6 +1,8 @@
 ---
 title: "An AI-assisted workflow for generative building design and energy modeling: Converting natural language design intent and images into 3D building energy model inputs"
-permalink: /publication/2026-2d-to-3d-building-design
+permalink: /publication/2026-ai-generative-building-design
+redirect_from:
+  - /publication/2026-2d-to-3d-building-design
 excerpt: "An AI-assisted workflow that converts natural language design intent and images into EnergyPlus-compatible 3D building energy model inputs."
 date: 2026-09-22
 venue: "Advanced Engineering Informatics"

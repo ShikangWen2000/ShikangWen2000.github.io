@@ -77,6 +77,10 @@ I am a PhD candidate at The Hong Kong Polytechnic University, supervised by [Pro
 
 <div class="news-list">
   <div class="news-item">
+    <div class="news-date">Oct 2026</div>
+    <div class="news-text">Invited to present on AI-driven building design at the WeLL Seminar, Center for the Built Environment (CBE), UC Berkeley.</div>
+  </div>
+  <div class="news-item">
     <div class="news-date">Sep 2026</div>
     <div class="news-text">Had a journal article accepted by <em>Advanced Engineering Informatics</em>.</div>
   </div>

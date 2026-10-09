@@ -101,6 +101,10 @@ I am a PhD candidate at The Hong Kong Polytechnic University, supervised by [Pro
     <div class="news-text">Received the IAQVEC 2026 Student Fellowship and presented a conference paper at <em>IAQVEC 2026</em>.</div>
   </div>
   <div class="news-item">
+    <div class="news-date">Feb 2026</div>
+    <div class="news-text">Presented on radiant cooling systems in hot and humid climates at the BEEE Research Salon, PolyU.</div>
+  </div>
+  <div class="news-item">
     <div class="news-date">Dec 2025</div>
     <div class="news-text">Published a journal article in <em>Building and Environment</em>.</div>
   </div>

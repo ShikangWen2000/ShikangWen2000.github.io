@@ -32,7 +32,7 @@ I am a PhD candidate at The Hong Kong Polytechnic University, supervised by [Pro
     </div>
   </div>
   <div class="experience-item">
-    <div class="experience-period">Sep 2023 – Present (expected 2027)</div>
+    <div class="experience-period">Sep 2023 – Present (expected Aug 2027)</div>
     <div>
       <h3>PhD Candidate · The Hong Kong Polytechnic University</h3>
       <p>Researching carbon-neutral buildings through retrofit analysis, advanced HVAC systems, and AI-assisted building design, combining EnergyPlus simulation, life-cycle cost and exergy analysis, field measurement, and generative AI.</p>

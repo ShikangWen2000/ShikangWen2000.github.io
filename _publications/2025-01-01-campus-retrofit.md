@@ -1,7 +1,7 @@
 ---
 title: "Implementing building retrofitting strategies to halve campus office building carbon emissions by 2035: A case study in Hong Kong with techno-economic analysis"
 permalink: /publication/2025-campus-office-retrofit
-excerpt: "A techno-economic assessment of retrofit strategies for halving operational carbon emissions in an existing Hong Kong campus office building."
+excerpt: "A techno-economic assessment of retrofit strategies for halving operational carbon emissions in existing Hong Kong campus office buildings."
 date: 2025-04-05
 venue: "Energy and Buildings"
 type: "Journal article"
@@ -11,4 +11,4 @@ citation: "Wen, S., You, R., & Chen, Q. (2025). Implementing building retrofitti
 
 ## Abstract
 
-This study evaluates building retrofit pathways for reducing operational carbon emissions in an existing campus office building, combining energy simulation with techno-economic analysis.
+This study evaluates building retrofit pathways for reducing operational carbon emissions in existing campus office buildings, combining energy simulation with techno-economic analysis.

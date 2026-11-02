@@ -20,7 +20,7 @@ This project developed a performance-based framework for selecting and designing
 
 ## Method
 
-Annual daylight simulations were combined with an artificial neural network and a multi-objective genetic algorithm. Four strategies - perforated aluminum sheets, vertical slats, and south- or north-facing serrated windows - were evaluated through spatial glare autonomy and a daylight-satisfaction indicator derived from field-survey data.
+Annual daylight simulations were combined with an artificial neural network and a multi-objective genetic algorithm. Four strategies—perforated aluminum sheets, vertical slats, and south- or north-facing serrated windows—were evaluated through spatial glare autonomy and a daylight-satisfaction indicator derived from field-survey data.
 
 <figure class="fig">
   <img src="/images/projects/daylight-shading/framework.png" alt="Flow chart linking daylight simulation, neural-network prediction, and the multi-objective genetic algorithm.">

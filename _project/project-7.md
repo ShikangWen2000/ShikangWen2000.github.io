@@ -1,6 +1,6 @@
 ---
 title: "AI-assisted generative building design and energy modeling"
-excerpt: "A generative AI workflow that converts natural language design intent and single images into EnergyPlus-compatible 3D building energy model inputs."
+excerpt: "A generative AI workflow that converts natural-language design intent and single images into EnergyPlus-compatible 3D building energy model inputs."
 collection: project
 status: "Published research"
 period: "Sep 2026"
@@ -11,7 +11,7 @@ header:
 
 ## Overview
 
-This project developed an AI-assisted workflow that translates high-level design inputs - a natural language description or a single building image - into EnergyPlus-compatible building geometry, connecting generative design with building energy simulation.
+This project developed an AI-assisted workflow that translates high-level design inputs—a natural-language description or a single building image—into EnergyPlus-compatible building geometry, connecting generative design with building energy simulation.
 
 <figure class="fig">
   <img src="/images/projects/ai-generative-design/overview.png" alt="Four-stage workflow from a user prompt through an image generation model, a 2D image, an image-to-3D model, and EnergyPlus-compliant geometry conversion to an EnergyPlus model, with a feedback loop for further requirements.">
@@ -36,7 +36,7 @@ Deterministic calibration kept gross floor area and window-to-wall ratio close t
   <figcaption>Reconstructing a Hong Kong campus office building from a single image into an EnergyPlus model.</figcaption>
 </figure>
 
-From one constrained text prompt, the workflow also generated six alternative designs for the same building, with EUI values 2.7%-3.1% above the reference, enabling rapid, energy-oriented comparison of conceptual design options.
+From one constrained text prompt, the workflow also generated six alternative designs for the same building, with EUI values 2.7%–3.1% above the reference, enabling rapid, energy-oriented comparison of conceptual design options.
 
 <figure class="fig">
   <img src="/images/projects/ai-generative-design/eui-comparison.png" alt="Stacked bar chart of annual energy use intensity for the baseline design and six generated curved and modular designs, broken down into lighting and equipment, fans, pumps, and cooling.">

@@ -1,6 +1,6 @@
 ---
 title: "Advanced terminal devices and heat pumps across Chinese climates"
-excerpt: "A multi-climate energy and life-cycle assessment of radiant ceiling panels, gravity cabinet units, fan coils, and heat-pump configurations."
+excerpt: "A multi-climate energy and life-cycle assessment of radiant ceiling panels, gravity cabinet units, fan-coil units, and heat-pump configurations."
 collection: project
 status: "Published research"
 period: "May 2025"
@@ -29,7 +29,7 @@ Radiant ceiling panels and gravity cabinet units were compared with conventional
 
 ## Key findings
 
-Radiant ceiling panels reduced energy use by 16-24%, while gravity cabinet units achieved reductions of 8-11%, primarily through lower fan energy. Both systems performed more efficiently in colder climates. Radiant systems offered greater savings but higher initial costs and 10-17-year paybacks; gravity cabinet units recovered their costs in under 12 years across the studied climates.
+Radiant ceiling panels reduced energy use by 16–24%, while gravity cabinet units achieved reductions of 8–11%, primarily through lower fan energy. Both systems performed more efficiently in colder climates. Radiant systems offered greater savings but higher initial costs and 10–17-year paybacks; gravity cabinet units recovered their costs in under 12 years across the studied climates.
 
 <figure class="fig">
   <img src="/images/projects/terminal-devices/energy-reduction.png" alt="Stacked bar chart of energy consumption for fan coil, gravity cabinet, and radiant ceiling terminals under two heat-pump types, annotated with reductions up to 19.7 percent.">

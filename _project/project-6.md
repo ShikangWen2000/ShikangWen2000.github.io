@@ -1,6 +1,6 @@
 ---
 title: "Terminal devices, thermal comfort, and ventilation uniformity"
-excerpt: "An IAQVEC 2026 field investigation comparing fan coils, gravity cabinet units, and radiant surface systems under cooling and heating conditions."
+excerpt: "An IAQVEC 2026 field investigation comparing fan-coil units, gravity cabinet units, and radiant surface systems under cooling and heating conditions."
 collection: project
 status: "Published research"
 period: "May 2026"
@@ -11,7 +11,7 @@ header:
 
 ## Overview
 
-This field study compared how three terminal systems - fan-coil units, gravity cabinet units, and radiant surface systems - affect ventilation distribution and vertical temperature uniformity in an office building in Suzhou.
+This field study compared how three terminal systems—fan-coil units, gravity cabinet units, and radiant surface systems—affect ventilation distribution and vertical temperature uniformity in an office building in Suzhou.
 
 <figure class="fig">
   <img src="/images/projects/field-investigation/overview.png" alt="Floor plans of the three test offices marking five measurement points and the ventilation outlets, alongside photographs of the rooms.">
@@ -34,7 +34,7 @@ Measurements were conducted under summer cooling and winter heating conditions. 
 
 ## Key findings
 
-All three systems maintained ankle-to-head temperature differences below 2 °C in both seasons. Fan coils provided the most consistent year-round performance; gravity cabinet units produced the best thermal uniformity during cooling but the greatest stratification during heating; and the radiant system delivered the most uniform heating conditions, with weaker ventilation uniformity during cooling.
+All three systems maintained ankle-to-head temperature differences below 2 °C in both seasons. Fan-coil units provided the most consistent year-round performance; gravity cabinet units produced the best thermal uniformity during cooling but the greatest stratification during heating; and the radiant system delivered the most uniform heating conditions, with weaker ventilation uniformity during cooling.
 
 <figure class="fig">
   <img src="/images/projects/field-investigation/ach-heating.png" alt="Air change rate profiles against height at five measurement points for each terminal system under winter heating, annotated with coefficients of variation.">

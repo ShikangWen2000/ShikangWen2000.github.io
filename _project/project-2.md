@@ -45,7 +45,7 @@ The method achieved a peak signal-to-noise ratio of 59.24 and an R² of 0.9054 f
 
 Conceptualization, data curation, methodology, software, visualization, and original-draft writing.
 
-## Related output
+## Related outputs
 
 - [Automation in Construction article](https://doi.org/10.1016/j.autcon.2024.105294)
 - [Code and dataset](https://github.com/ShikangWen2000/SingleLM-Net)

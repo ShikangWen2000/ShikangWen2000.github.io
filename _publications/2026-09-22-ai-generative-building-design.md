@@ -8,7 +8,7 @@ date: 2026-09-22
 venue: "Advanced Engineering Informatics"
 type: "Journal article"
 paperurl: "https://doi.org/10.1016/j.aei.2026.105313"
-citation: "Wen, S., & Chen, Q. (2027). An AI-assisted workflow for generative building design and energy modeling: Converting natural language design intent and images into 3D building energy model inputs. Advanced Engineering Informatics, 77, 105313."
+citation: "Wen, S., & Chen, Q. (2026, online). An AI-assisted workflow for generative building design and energy modeling: Converting natural language design intent and images into 3D building energy model inputs. Advanced Engineering Informatics, Vol. 77 (2027), 105313."
 ---
 
 ## Abstract

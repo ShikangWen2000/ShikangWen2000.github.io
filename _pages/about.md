@@ -32,7 +32,7 @@ I am a PhD candidate at The Hong Kong Polytechnic University, supervised by [Pro
     </div>
   </div>
   <div class="experience-item">
-    <div class="experience-period">Sep 2023 – Present</div>
+    <div class="experience-period">Sep 2023 – Present (expected 2027)</div>
     <div>
       <h3>PhD Candidate · The Hong Kong Polytechnic University</h3>
       <p>Researching carbon-neutral buildings through retrofit analysis, advanced HVAC systems, and AI-assisted building design, combining EnergyPlus simulation, life-cycle cost and exergy analysis, field measurement, and generative AI.</p>
@@ -42,8 +42,21 @@ I am a PhD candidate at The Hong Kong Polytechnic University, supervised by [Pro
     <div class="experience-period">Sep 2018 – Jun 2023</div>
     <div>
       <h3>Bachelor of Architecture · Shanghai Jiao Tong University</h3>
-      <p>Developed multi-objective methods for daylight and shading design, followed by a deep-learning workflow that reconstructs fisheye luminance maps for real-time visual-comfort assessment.</p>
+      <p>Five-year professional degree. Developed multi-objective methods for daylight and shading design, followed by a deep-learning workflow that reconstructs fisheye luminance maps for real-time visual-comfort assessment.</p>
     </div>
+  </div>
+</div>
+
+### Teaching & practice
+
+<div class="news-list">
+  <div class="news-item">
+    <div class="news-date">2023 – 2026</div>
+    <div class="news-text">Teaching Assistant at PolyU for <em>Sustainable Buildings</em> (2023/24) and <em>HVACR</em> (2025/26).</div>
+  </div>
+  <div class="news-item">
+    <div class="news-date">2020 – 2021</div>
+    <div class="news-text">Architectural design intern at East China Architectural Design and Research Institute (ECADI), working on the Urumqi and Hohhot airport terminals, and at Shanghai Liben Architectural Design Office, working on a school project.</div>
   </div>
 </div>
 
